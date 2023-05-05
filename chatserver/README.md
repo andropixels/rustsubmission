@@ -4,7 +4,8 @@ This Rust project is a simple chat server built with Tokio. It broadcasts messag
 
 Getting Started
 To run the chat server, navigate to the project directory and execute the following command:
-    ## cargo run 
+
+cargo run 
 
 This will start the chat server on localhost at port 8080.
 
