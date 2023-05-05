@@ -1,4 +1,4 @@
-# rustsubmission
+# rustAPI
 Rust Project for Fetching Data from Coinbase API and Saving to MySQL
 
 This Rust project fetches data from the Coinbase API and writes the response to a local MySQL database using the MySQL Rust crate. It also provides a command to print the data from the database tables.
